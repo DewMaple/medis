@@ -46,13 +46,15 @@
 
 .public_fixedDataTableCell_main {
   font-family: Consolas, monospace;
-  font-size: 12px;
+  font-size: 13px;
+  font-weight: bold;
   line-height: 24px;
   padding: 0 8px;
 }
 
 .public_fixedDataTableRow_main {
-  color: #606061;
+  //color: #606061;
+  color: #4F4F4F;
 }
 
 :focus .public_fixedDataTableRow_main.is-selected {
